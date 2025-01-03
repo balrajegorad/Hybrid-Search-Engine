@@ -1,6 +1,3 @@
-# Hybrid-Search-Engine
-This project implements a Hybrid Product Search Engine using a combination of MySQL for structured queries and ChromaDB for semantic vector-based searches. Users can search products by name, description, or price range through a user-friendly Streamlit web interfa
-
 # Hybrid Product Search Engine
 
 This project implements a **Hybrid Product Search Engine** using a combination of MySQL for structured queries and ChromaDB for semantic vector-based searches. Users can search products by name, description, or price range through a user-friendly Streamlit web interface.
@@ -43,8 +40,8 @@ hybrid_search/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-repo/hybrid_search.git
-cd hybrid_search
+git clone https://github.com/balrajegorad/Hybrid-Search-Engine.git
+cd Hybrid-Search-Engine
 ```
 
 ### **2. Install Dependencies**
