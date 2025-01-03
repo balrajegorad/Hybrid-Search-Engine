@@ -111,13 +111,24 @@ embedding_model = all-MiniLM-L6-v2
 
 ### Upload your app screenshots in the `images/` folder and replace the placeholders below.
 
-1. **Home Screen**
+1. **Search Results by Name**
+   
+   ![Screenshot 2025-01-03 081749](https://github.com/user-attachments/assets/d5e68291-763f-4393-b114-113a2441ceea)
 
-2. **Search Results by Name**
+   ![Screenshot 2025-01-03 081639](https://github.com/user-attachments/assets/b57ad3bd-b736-4380-81d6-14cd54855de9)
 
-3. **Search Results by Description**
 
-4. **Search Results by Price Range**
+2. **Search Results by Description**
+   
+   ![Screenshot 2025-01-03 081434](https://github.com/user-attachments/assets/12bfe80c-90cc-41aa-8c0d-8f56d89e5bd0)
+   
+   ![Screenshot 2025-01-03 081858](https://github.com/user-attachments/assets/304341bb-2177-4726-a51a-baa944f0803a)
+
+
+3. **Search Results by Price Range**
+ 
+   ![Screenshot 2025-01-03 081549](https://github.com/user-attachments/assets/25ae32f6-7f56-43df-bca2-a65b203a7418)
+
 
 ---
 
